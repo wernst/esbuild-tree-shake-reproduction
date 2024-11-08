@@ -1,0 +1,14 @@
+{
+  "name": "esbuild-tree-shake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "dependencies": {
+    "esbuild": "^0.24.0",
+    "remeda": "^2.17.0"
+  }
+}
